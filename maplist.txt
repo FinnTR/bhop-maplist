@@ -68,6 +68,12 @@ bhop_beginner_castle
 bhop_behemoth
 bhop_behomeby10
 bhop_behomeby11
+bhop_bhop1
+bhop_bhop2
+bhop_bhop3
+bhop_bhop4
+bhop_bhop5
+bhop_bhop6
 bhop_blackglow_csgo
 bhop_blankbody
 bhop_bless_csgo_lg
@@ -87,7 +93,6 @@ bhop_bubblegum
 bhop_bunker
 bhop_bw
 bhop_candy
-bhop_cartoonynight
 bhop_castletown
 bhop_catch
 bhop_celestial
@@ -253,6 +258,7 @@ bhop_null
 bhop_nup
 bhop_nup2
 bhop_nux
+bhop_oceanic
 bhop_oldschool
 bhop_omnitopia
 bhop_one_fall
