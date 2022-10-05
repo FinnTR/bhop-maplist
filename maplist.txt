@@ -12,6 +12,7 @@ bhop_620s
 bhop_98sync
 bhop_a
 bhop_abriller
+bhop_acrobat_bridges
 bhop_adam
 bhop_addict_v2_csgo
 bhop_adrino_fix
@@ -113,6 +114,7 @@ bhop_colorshit_v2
 bhop_colour_v1
 bhop_conquest2
 bhop_csgo_neon
+bhop_cuddles_5percent
 bhop_cuteconcretes
 bhop_cutekittenz_csgo
 bhop_cw_journey_csgo
@@ -125,10 +127,20 @@ bhop_degree
 bhop_desolation2
 bhop_despair
 bhop_dezert
+bhop_df_charon
+bhop_df_cruton
+bhop_df_cruton2
+bhop_df_cruton3
+bhop_df_cruton4
+bhop_df_menacy
+bhop_df_ns_streets
+bhop_df_torque
+bhop_dfwc2017_6
 bhop_dimensional
 bhop_dipl
 bhop_disco
 bhop_dom
+bhop_downdowndown
 bhop_dragon_fix
 bhop_drip
 bhop_dumbshit
@@ -145,9 +157,11 @@ bhop_epiphany_csgo
 bhop_equa
 bhop_eternity
 bhop_etizolam
+bhop_ex_terrorlong
 bhop_exiled
 bhop_exkz
 bhop_exodus_fix
+bhop_ext_kool_06
 bhop_fade
 bhop_fatol
 bhop_flatout_csgo
@@ -188,6 +202,7 @@ bhop_iconic
 bhop_icosa
 bhop_illusions
 bhop_impatience
+bhop_inder_down
 bhop_inline
 bhop_interloper
 bhop_ivy_final
@@ -203,11 +218,13 @@ bhop_khufu
 bhop_kinni
 bhop_kiwi_cwfx_csgo
 bhop_knox_csgo
+bhop_kool_short3
 bhop_kore
 bhop_kotodama
 bhop_kr_d
 bhop_l_speedrun
 bhop_laf
+bhop_larena_XL
 bhop_larena_nodoors_csgo
 bhop_leaf
 bhop_legacy
@@ -276,6 +293,7 @@ bhop_pinkglow_csgo
 bhop_pk
 bhop_playboy_csgo
 bhop_polior
+bhop_poon_mitt
 bhop_popcornforadmin_csgo
 bhop_prometheus
 bhop_prux_fix_csgo
@@ -290,6 +308,10 @@ bhop_quack
 bhop_quasar
 bhop_quiet2
 bhop_qwerty
+bhop_r7_cvl
+bhop_r7_enqur
+bhop_r7_gold
+bhop_r7_ivyx8
 bhop_rabbit_csgo
 bhop_rainbowroad
 bhop_redglow_csgo
@@ -303,6 +325,7 @@ bhop_ripdream
 bhop_rippcpie
 bhop_rising_csgo
 bhop_riverland_ig
+bhop_rmn_crisis
 bhop_ruins
 bhop_safehaven
 bhop_saffron
@@ -324,6 +347,7 @@ bhop_sheepi_all_star_fix
 bhop_sheepi_fix
 bhop_shitper
 bhop_shy
+bhop_skate5
 bhop_sketchy_v4_csgo
 bhop_sky_realm_v5
 bhop_skylook2
@@ -400,6 +424,8 @@ bhop_xorex
 bhop_xyz
 bhop_y
 bhop_z
+bhop_zeel_omnitek
+bhop_zeel_recapture
 bhop_zentic
 bhop_zygos
 bhop_zyper
