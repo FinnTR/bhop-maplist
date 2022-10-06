@@ -6,6 +6,7 @@ bhop_24hrs
 bhop_2nedomappera_v3
 bhop_2work
 bhop_3d_csgo
+bhop_4_coffee
 bhop_4colors
 bhop_611ssj
 bhop_620s
@@ -13,6 +14,7 @@ bhop_98sync
 bhop_a
 bhop_abriller
 bhop_acrobat_bridges
+bhop_activate_windows
 bhop_adam
 bhop_addict_v2_csgo
 bhop_adrino_fix
@@ -33,11 +35,14 @@ bhop_alt_vaahtera
 bhop_alvo2
 bhop_alwaystranslucent
 bhop_ambience
+bhop_ambiguity
 bhop_ametisti
 bhop_angst_go
 bhop_anini
 bhop_another20secstrafemap
+bhop_anotherbhopmap
 bhop_anotherboostermap
+bhop_anotherstrafemap
 bhop_antosha_rg1
 bhop_anxiety
 bhop_anyyy
@@ -57,12 +62,15 @@ bhop_atom
 bhop_atrium
 bhop_audree_final
 bhop_aurum
+bhop_aux_a11
 bhop_aux_a9_csgo
 bhop_aziz_v2
+bhop_b1h
 bhop_babes_csgo
 bhop_babylon_fix
 bhop_badges
 bhop_badges_mini_csgo
+bhop_baguette
 bhop_ballistic_csgo
 bhop_basic
 bhop_beginner_castle
@@ -112,6 +120,7 @@ bhop_coast
 bhop_cobblestones_csgo
 bhop_colorshit_v2
 bhop_colour_v1
+bhop_conduit
 bhop_conquest2
 bhop_csgo_neon
 bhop_cuddles_5percent
@@ -168,6 +177,7 @@ bhop_flatout_csgo
 bhop_flow
 bhop_fluffy_panda
 bhop_flyingcolors
+bhop_fnap
 bhop_foliage_fix
 bhop_fool
 bhop_forest
@@ -222,6 +232,7 @@ bhop_kool_short3
 bhop_kore
 bhop_kotodama
 bhop_kr_d
+bhop_kul1
 bhop_l_speedrun
 bhop_laf
 bhop_larena_XL
@@ -276,6 +287,7 @@ bhop_nup
 bhop_nup2
 bhop_nux
 bhop_oceanic
+bhop_offerline
 bhop_oldschool
 bhop_omnitopia
 bhop_one_fall
@@ -286,6 +298,7 @@ bhop_pandora
 bhop_paradigm
 bhop_paradoxum
 bhop_pharma
+bhop_phaze
 bhop_pickles
 bhop_pikkulauantai
 bhop_pillar
@@ -315,6 +328,7 @@ bhop_r7_ivyx8
 bhop_rabbit_csgo
 bhop_rainbowroad
 bhop_redglow_csgo
+bhop_redshit_csgo
 bhop_relinquished_fixx_csgo
 bhop_resonance_csgo
 bhop_reverie
@@ -347,9 +361,11 @@ bhop_sheepi_all_star_fix
 bhop_sheepi_fix
 bhop_shitper
 bhop_shy
+bhop_sinister
 bhop_skate5
 bhop_sketchy_v4_csgo
 bhop_sky_realm_v5
+bhop_skylight
 bhop_skylook2
 bhop_sleepless
 bhop_slope_v2
@@ -360,6 +376,7 @@ bhop_sonni_v2
 bhop_sorrow
 bhop_spacefailure
 bhop_speedcube
+bhop_speedrun_fibzy
 bhop_speedrun_suka48
 bhop_speedrun_suka51
 bhop_spongebob
@@ -369,6 +386,7 @@ bhop_sqee_csgo
 bhop_stoneage
 bhop_stonez
 bhop_straa_space
+bhop_strafeons_fix
 bhop_stref_amazon
 bhop_stref_asleep
 bhop_stref_cairo
