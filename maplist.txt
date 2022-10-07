@@ -48,6 +48,7 @@ bhop_anxiety
 bhop_anyyy
 bhop_aow_blackout
 bhop_aow_whiteout
+bhop_apathy
 bhop_aportal
 bhop_araki
 bhop_arcane_v1_remake
@@ -109,6 +110,7 @@ bhop_challenge_v1_final
 bhop_challenjour_v2
 bhop_cheesemania
 bhop_chillim
+bhop_christmas
 bhop_chronology
 bhop_circlev2
 bhop_classic
@@ -196,6 +198,7 @@ bhop_green_shade
 bhop_greenglow_csgo
 bhop_greennight
 bhop_greenshit
+bhop_grove
 bhop_haarukka
 bhop_halloween_sm
 bhop_hamel_csgo
@@ -243,7 +246,11 @@ bhop_legion
 bhop_lego1
 bhop_lego2
 bhop_lego3
+bhop_lego_journey
+bhop_lego_rnm_csgo
 bhop_lego_world
+bhop_legoflix1_csgo
+bhop_legomyego_csgo
 bhop_lime
 bhop_linear_concrete
 bhop_linear_dust
@@ -272,6 +279,7 @@ bhop_movetothetrees
 bhop_mukiology
 bhop_mult
 bhop_nahuy
+bhop_natthimmel
 bhop_neonlaser
 bhop_nervosity2
 bhop_nevertranslucent
@@ -286,6 +294,7 @@ bhop_null
 bhop_nup
 bhop_nup2
 bhop_nux
+bhop_ocean
 bhop_oceanic
 bhop_offerline
 bhop_oldschool
@@ -362,6 +371,7 @@ bhop_sheepi_fix
 bhop_shitper
 bhop_shy
 bhop_sinister
+bhop_sj
 bhop_skate5
 bhop_sketchy_v4_csgo
 bhop_sky_realm_v5
@@ -374,6 +384,7 @@ bhop_snowy
 bhop_soft_csgo
 bhop_sonni_v2
 bhop_sorrow
+bhop_space
 bhop_spacefailure
 bhop_speedcube
 bhop_speedrun_fibzy
