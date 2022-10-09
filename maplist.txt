@@ -264,6 +264,7 @@ bhop_lucky
 bhop_lunti
 bhop_lush
 bhop_magic_cave
+bhop_maja
 bhop_majuice_fix
 bhop_malabar5
 bhop_malabar9
