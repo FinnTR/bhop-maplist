@@ -3,6 +3,10 @@ bhop_00r
 bhop_162
 bhop_24
 bhop_24hrs
+bhop_2nedomappera_4
+bhop_2nedomappera_5
+bhop_2nedomappera_6
+bhop_2nedomappera_v2_rework
 bhop_2nedomappera_v3
 bhop_2work
 bhop_3d_csgo
@@ -221,6 +225,7 @@ bhop_interloper
 bhop_ivy_final
 bhop_japan
 bhop_jazrest_fix
+bhop_jesus_part1_rg8
 bhop_jethro_blue
 bhop_juked
 bhop_jx_csgo
@@ -366,6 +371,7 @@ bhop_sdc01
 bhop_second_csgo
 bhop_serenity
 bhop_serv
+bhop_serz_csgo
 bhop_sewertunnel
 bhop_sheepi_all_star_fix
 bhop_sheepi_fix
