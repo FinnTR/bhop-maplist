@@ -15,6 +15,7 @@ bhop_4colors
 bhop_611ssj
 bhop_620s
 bhop_98sync
+bhop_Evolve
 bhop_a
 bhop_abandoned_fish
 bhop_abriller
@@ -110,6 +111,7 @@ bhop_bubblegum
 bhop_bunker
 bhop_bw
 bhop_candy
+bhop_cartoonynight
 bhop_castletown
 bhop_catch
 bhop_celestial
@@ -241,6 +243,7 @@ bhop_khufu
 bhop_kinni
 bhop_kitjjes
 bhop_kiwi_cwfx_csgo
+bhop_kloom
 bhop_knox_csgo
 bhop_kool_short3
 bhop_kore
@@ -262,6 +265,7 @@ bhop_lego_rnm_csgo
 bhop_lego_world
 bhop_legoflix1_csgo
 bhop_legomyego_csgo
+bhop_lhops2
 bhop_lime
 bhop_linear_concrete
 bhop_linear_dust
@@ -311,6 +315,8 @@ bhop_nux
 bhop_ocean
 bhop_oceanic
 bhop_offerline
+bhop_oldhoppers
+bhop_oldhoppers2
 bhop_oldschool
 bhop_omnitopia
 bhop_one_fall
@@ -440,6 +446,7 @@ bhop_topgay
 bhop_trampislow
 bhop_tran
 bhop_translucidity_v2
+bhop_treehouse4
 bhop_tron_evolution
 bhop_tupasplash
 bhop_twisted_test_chambers_v1
@@ -471,6 +478,7 @@ bhop_xmas
 bhop_xof
 bhop_xorex
 bhop_xyz
+bhop_xyz_v2
 bhop_y
 bhop_z
 bhop_zeel_omnitek
