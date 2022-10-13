@@ -146,6 +146,7 @@ bhop_deadend
 bhop_degree
 bhop_desolation2
 bhop_despair
+bhop_destribution
 bhop_dezert
 bhop_df_charon
 bhop_df_cruton
@@ -160,6 +161,7 @@ bhop_dimensional
 bhop_dipl
 bhop_disco
 bhop_dom
+bhop_dongggame
 bhop_downdowndown
 bhop_dragon_fix
 bhop_drip
@@ -176,6 +178,8 @@ bhop_enlightened2
 bhop_enlightened_ez
 bhop_epiphany_csgo
 bhop_equa
+bhop_equinox
+bhop_esthetic_gay
 bhop_eternity
 bhop_etizolam
 bhop_ex_terrorlong
@@ -188,6 +192,7 @@ bhop_fatol
 bhop_flatout_csgo
 bhop_flow
 bhop_fluffy_panda
+bhop_fly_ninja_fix
 bhop_flyingcolors
 bhop_fnap
 bhop_foliage_fix
@@ -198,6 +203,7 @@ bhop_frankerz_runaway
 bhop_fronk
 bhop_funny
 bhop_fur_fix_csgo
+bhop_g_g_g
 bhop_getgo
 bhop_glasslight
 bhop_glxy
@@ -213,6 +219,7 @@ bhop_grove
 bhop_haarukka
 bhop_halloween_sm
 bhop_hamel_csgo
+bhop_heishin
 bhop_hellokitty_csgo_b1
 bhop_hexag0n_cool
 bhop_hood2
@@ -312,6 +319,7 @@ bhop_null
 bhop_nup
 bhop_nup2
 bhop_nux
+bhop_o5o
 bhop_ocean
 bhop_oceanic
 bhop_offerline
@@ -371,6 +379,9 @@ bhop_rippcpie
 bhop_rising_csgo
 bhop_riverland_ig
 bhop_rmn_crisis
+bhop_rockthevote2
+bhop_rockthevote3
+bhop_rockthevote4
 bhop_ruins
 bhop_safehaven
 bhop_saffron
