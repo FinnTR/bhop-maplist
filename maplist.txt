@@ -17,6 +17,8 @@ bhop_620s
 bhop_98sync
 bhop_Evolve
 bhop_a
+bhop_a01_route
+bhop_a02_trytosurf
 bhop_abandoned_fish
 bhop_abriller
 bhop_acrobat_bridges
@@ -183,6 +185,7 @@ bhop_esthetic_gay
 bhop_eternity
 bhop_etizolam
 bhop_ex_terrorlong
+bhop_exanimo
 bhop_exiled
 bhop_exkz
 bhop_exodus_fix
@@ -195,6 +198,7 @@ bhop_fluffy_panda
 bhop_fly_ninja_fix
 bhop_flyingcolors
 bhop_fnap
+bhop_foggyday_fix
 bhop_foliage_fix
 bhop_fool
 bhop_forest
@@ -226,6 +230,7 @@ bhop_hood2
 bhop_hop_the_hopper
 bhop_horoshechnenko
 bhop_horseshit_3
+bhop_hyperion
 bhop_i_hate_myself_for_making_this
 bhop_icebase_csgo
 bhop_icetrap
@@ -341,6 +346,7 @@ bhop_pickles
 bhop_pikkulauantai
 bhop_pillar
 bhop_pinkglow_csgo
+bhop_pisecploxo
 bhop_pk
 bhop_playboy_csgo
 bhop_polior
@@ -365,6 +371,7 @@ bhop_r7_gold
 bhop_r7_ivyx8
 bhop_rabbit_csgo
 bhop_rainbowroad
+bhop_randomcube
 bhop_redglow_csgo
 bhop_redshit_csgo
 bhop_relinquished_fixx_csgo
@@ -421,6 +428,7 @@ bhop_sonni_v2
 bhop_sorrow
 bhop_space
 bhop_spacefailure
+bhop_speed_demon
 bhop_speedcube
 bhop_speedrun_fibzy
 bhop_speedrun_suka48
@@ -445,6 +453,7 @@ bhop_sukablyad
 bhop_summerland_runaway
 bhop_supernova
 bhop_surf_qvo_v2
+bhop_sylveon
 bhop_symphony
 bhop_synthetic
 bhop_szaq2
