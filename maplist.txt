@@ -96,9 +96,11 @@ bhop_bhop6
 bhop_blackglow_csgo
 bhop_blankbody
 bhop_bless_csgo_lg
+bhop_blinchtoeto
 bhop_bloc
 bhop_bloclean
 bhop_blois_fix
+bhop_bludi
 bhop_blue_abstract
 bhop_blue_aux_csgo
 bhop_bobop
@@ -106,6 +108,7 @@ bhop_bofa
 bhop_boopsnow
 bhop_borders_csgo
 bhop_br_vacation
+bhop_braixen
 bhop_bram_halloween
 bhop_bridge
 bhop_brodinski
@@ -159,6 +162,7 @@ bhop_df_menacy
 bhop_df_ns_streets
 bhop_df_torque
 bhop_dfwc2017_6
+bhop_dilaudid
 bhop_dimensional
 bhop_dipl
 bhop_disco
@@ -208,6 +212,7 @@ bhop_fronk
 bhop_funny
 bhop_fur_fix_csgo
 bhop_g_g_g
+bhop_genesis
 bhop_getgo
 bhop_glasslight
 bhop_glxy
@@ -262,8 +267,10 @@ bhop_kore
 bhop_kotodama
 bhop_kr_d
 bhop_kul1
+bhop_kuukkeli
 bhop_l_speedrun
 bhop_laf
+bhop_lagoon_v1
 bhop_larena_XL
 bhop_larena_nodoors_csgo
 bhop_leaf
@@ -290,6 +297,7 @@ bhop_lubluebatsjavanal
 bhop_lucky
 bhop_lunti
 bhop_lush
+bhop_m105
 bhop_magic_cave
 bhop_maja
 bhop_majuice_fix
@@ -339,6 +347,7 @@ bhop_p05
 bhop_pandora
 bhop_paradigm
 bhop_paradoxum
+bhop_pedro
 bhop_peleks
 bhop_pharma
 bhop_phaze
@@ -408,6 +417,7 @@ bhop_serenity
 bhop_serv
 bhop_serz_csgo
 bhop_sewertunnel
+bhop_shameful
 bhop_sheepi_all_star_fix
 bhop_sheepi_fix
 bhop_shitper
@@ -451,6 +461,7 @@ bhop_sugarspeed
 bhop_suitsuke
 bhop_sukablyad
 bhop_summerland_runaway
+bhop_superdooperhard_speedrun_csgo
 bhop_supernova
 bhop_surf_qvo_v2
 bhop_sylveon
@@ -483,6 +494,8 @@ bhop_vergogna
 bhop_vertex_fast
 bhop_warmzsteon
 bhop_waterworks
+bhop_weewooweewoo
+bhop_welovenason
 bhop_whiteglow_csgo
 bhop_whiteshit
 bhop_wildcard
