@@ -58,6 +58,7 @@ bhop_aow_blackout
 bhop_aow_whiteout
 bhop_apathy
 bhop_aportal
+bhop_appaisanagger
 bhop_araki
 bhop_arcane_v1_remake
 bhop_areaportal_v1
@@ -177,6 +178,9 @@ bhop_dust_temple
 bhop_eazy_csgo
 bhop_eazython
 bhop_egyptian_balls
+bhop_ekrentop
+bhop_ekrentop2
+bhop_ekrentop3
 bhop_elitegames
 bhop_emevaelx3
 bhop_emevaelx_csgo
@@ -209,6 +213,7 @@ bhop_forest
 bhop_fps_max_csgo
 bhop_frankerz_runaway
 bhop_fronk
+bhop_fuckapoy3
 bhop_funny
 bhop_fur_fix_csgo
 bhop_g_g_g
@@ -231,6 +236,7 @@ bhop_hamel_csgo
 bhop_heishin
 bhop_hellokitty_csgo_b1
 bhop_hexag0n_cool
+bhop_heytonycanihavemapperrole
 bhop_hood2
 bhop_hop_the_hopper
 bhop_horoshechnenko
