@@ -59,6 +59,8 @@ bhop_aow_whiteout
 bhop_apathy
 bhop_aportal
 bhop_appaisanagger
+bhop_appatop
+bhop_appatop2
 bhop_araki
 bhop_arcane_v1_remake
 bhop_areaportal_v1
@@ -125,6 +127,7 @@ bhop_challenge_v1_final
 bhop_challenjour_v2
 bhop_cheesemania
 bhop_chillim
+bhop_chimpmunkertop
 bhop_christmas
 bhop_chronology
 bhop_circlev2
@@ -237,6 +240,7 @@ bhop_heishin
 bhop_hellokitty_csgo_b1
 bhop_hexag0n_cool
 bhop_heytonycanihavemapperrole
+bhop_holybookshelf
 bhop_hood2
 bhop_hop_the_hopper
 bhop_horoshechnenko
@@ -257,6 +261,7 @@ bhop_japan
 bhop_jazrest_fix
 bhop_jesus_part1_rg8
 bhop_jethro_blue
+bhop_jugtop
 bhop_juked
 bhop_jx_csgo
 bhop_kamapulya
@@ -300,6 +305,10 @@ bhop_lord_m4dara
 bhop_lost_world
 bhop_lowg
 bhop_lubluebatsjavanal
+bhop_lucenttop
+bhop_lucenttop2
+bhop_lucenttop3
+bhop_lucenttop4
 bhop_lucky
 bhop_lunti
 bhop_lush
@@ -507,6 +516,7 @@ bhop_whiteshit
 bhop_wildcard
 bhop_winter_csgo
 bhop_winterland
+bhop_wintertop
 bhop_wire
 bhop_wj
 bhop_woodenxd
