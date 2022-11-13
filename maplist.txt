@@ -1,9 +1,8 @@
-bhop_thc_platinum_final_rg2
-bhop_daolang_go
 bhop_002_silent
 bhop_00r
 bhop_100traps_v4_1
 bhop_162
+bhop_16384
 bhop_24
 bhop_24hrs
 bhop_2nedomappera_4
@@ -13,6 +12,7 @@ bhop_2nedomappera_v2_rework
 bhop_2nedomappera_v3
 bhop_2work
 bhop_3d_csgo
+bhop_3dm
 bhop_4_coffee
 bhop_4colors
 bhop_611ssj
@@ -28,6 +28,7 @@ bhop_acrobat_bridges
 bhop_activate_windows
 bhop_adam
 bhop_addict_v2_csgo
+bhop_admistourselves
 bhop_adrino_fix
 bhop_agu_final
 bhop_aimers_hell
@@ -62,6 +63,7 @@ bhop_aow_blackout
 bhop_aow_whiteout
 bhop_apathy
 bhop_aportal
+bhop_appa
 bhop_appaisanagger
 bhop_appatop
 bhop_appatop2
@@ -81,6 +83,7 @@ bhop_audree_final
 bhop_aurum
 bhop_aux_a11
 bhop_aux_a9_csgo
+bhop_aventus_v2
 bhop_aziz_v2
 bhop_b1h
 bhop_babes_csgo
@@ -137,6 +140,7 @@ bhop_cheesemania
 bhop_chillim
 bhop_chimpmunkertop_easy
 bhop_christmas
+bhop_christmasstrafing
 bhop_chronology
 bhop_circle_course
 bhop_circlev2
@@ -160,8 +164,10 @@ bhop_cyanglow_csgo
 bhop_cyber_csgo
 bhop_cyon
 bhop_dango
+bhop_daolang_go
 bhop_dark_ascension
 bhop_deadend
+bhop_dedushka
 bhop_degree
 bhop_desolation2
 bhop_despair
@@ -190,6 +196,7 @@ bhop_dunes_csgo
 bhop_dust_temple
 bhop_eazy_csgo
 bhop_eazython
+bhop_effigy
 bhop_egyptian_balls
 bhop_ekrentop
 bhop_ekrentop2
@@ -218,6 +225,7 @@ bhop_farver
 bhop_fatol
 bhop_flatout_csgo
 bhop_flow
+bhop_flue_go
 bhop_fluffy_panda
 bhop_fly_ninja_fix
 bhop_flyingcolors
@@ -279,6 +287,7 @@ bhop_japan
 bhop_jazrest_fix
 bhop_jesus_part1_rg8
 bhop_jethro_blue
+bhop_jon_v1
 bhop_jugtop
 bhop_juked
 bhop_jx_csgo
@@ -510,6 +519,7 @@ bhop_tanker3
 bhop_tehoputki
 bhop_teti
 bhop_teuthida
+bhop_thc_platinum_final_rg2
 bhop_tinneri
 bhop_topgay
 bhop_trampislow
