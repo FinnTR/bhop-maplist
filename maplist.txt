@@ -153,6 +153,8 @@ bhop_coast
 bhop_cobblestones_csgo
 bhop_colorshit_v2
 bhop_colour_v1
+bhop_community_jump2_csgo
+bhop_communityjump_csgo
 bhop_conduit
 bhop_conquest2
 bhop_csgo_neon
@@ -293,6 +295,7 @@ bhop_juked
 bhop_jx_csgo
 bhop_kamapulya
 bhop_kanto
+bhop_kastella
 bhop_kaunisnimi_fix
 bhop_khufu
 bhop_kinni
@@ -304,13 +307,16 @@ bhop_kool_short3
 bhop_kore
 bhop_kotodama
 bhop_kr_d
+bhop_krsk_go
 bhop_kul1
 bhop_kuukkeli
 bhop_l_speedrun
 bhop_laf
 bhop_lagoon_v1
+bhop_land_x2
 bhop_larena_XL
 bhop_larena_nodoors_csgo
+bhop_lavaspeedrun
 bhop_leaf
 bhop_legacy
 bhop_legion
@@ -323,11 +329,13 @@ bhop_lego_world
 bhop_legoflix1_csgo
 bhop_legomyego_csgo
 bhop_lhops2
+bhop_lifeless_x
 bhop_lime
 bhop_linear_concrete
 bhop_linear_dust
 bhop_linear_forest
 bhop_lm_csgo
+bhop_lmnop
 bhop_lord_m4dara
 bhop_lost_world
 bhop_lowg
@@ -347,10 +355,12 @@ bhop_maja
 bhop_majuice_fix
 bhop_malabar5
 bhop_malabar9
+bhop_mari
 bhop_matches
 bhop_meiiko_csgo
 bhop_memory
 bhop_metra2
+bhop_min_v2
 bhop_mirrorsedge_csgo
 bhop_mirthis
 bhop_monotonous
@@ -380,6 +390,7 @@ bhop_o5o
 bhop_ocean
 bhop_oceanic
 bhop_offerline
+bhop_oksagare
 bhop_oldhoppers
 bhop_oldhoppers2
 bhop_oldschool
@@ -426,6 +437,7 @@ bhop_r7_enqur
 bhop_r7_gold
 bhop_r7_ivyx8
 bhop_rabbit_csgo
+bhop_radiant
 bhop_rainbowroad
 bhop_randomcube
 bhop_redglow_csgo
@@ -539,6 +551,7 @@ bhop_velocity_csgo
 bhop_velstand
 bhop_verbena
 bhop_vergogna
+bhop_verisimilitud
 bhop_vertex_fast
 bhop_warmzsteon
 bhop_waterworks
