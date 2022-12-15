@@ -137,6 +137,7 @@ bhop_celltop
 bhop_challenge_v1_final
 bhop_challenjour_v2
 bhop_cheesemania
+bhop_cherryblossom
 bhop_chillim
 bhop_chimpmunkertop_easy
 bhop_christmas
@@ -306,6 +307,7 @@ bhop_knox_csgo
 bhop_kool_short3
 bhop_kore
 bhop_kotodama
+bhop_kotodama2
 bhop_kr_d
 bhop_krsk_go
 bhop_kul1
@@ -363,6 +365,7 @@ bhop_metra2
 bhop_min_v2
 bhop_mirrorsedge_csgo
 bhop_mirthis
+bhop_monoton
 bhop_monotonous
 bhop_mood
 bhop_motion_track
@@ -480,6 +483,8 @@ bhop_shameful
 bhop_sheepi_all_star_fix
 bhop_sheepi_fix
 bhop_shitper
+bhop_shutdown
+bhop_shutdown2
 bhop_shy
 bhop_sinister
 bhop_sj
@@ -551,7 +556,7 @@ bhop_velocity_csgo
 bhop_velstand
 bhop_verbena
 bhop_vergogna
-bhop_verisimilitud
+bhop_verisimilitude
 bhop_vertex_fast
 bhop_warmzsteon
 bhop_waterworks
